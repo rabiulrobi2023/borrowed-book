@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brandName": "HP",
+        "brandImage": "https://i.ibb.co/cNMqwC8/brand1.png"
+    },
+    {
+        "id": 2,
+        "brandName": "DELL",
+        "brandImage": "https://i.ibb.co/YtWDkJ4/brand2.png"
+    },
+    {
+        "id": 3,
+        "brandName": "SAMSUNG",
+        "brandImage": "https://i.ibb.co/vXrSgrw/brand3.png"
+    },
+    {
+        "id": 4,
+        "brandName": "OPPO",
+        "brandImage": "https://i.ibb.co/dDjScYQ/brand4.png"
+    },
+    {
+        "id": 5,
+        "brandName": "XAIOMI",
+        "brandImage": "https://i.ibb.co/BZ9YVFd/brand5.png"
+    },
+    {
+        "id": 6,
+        "brandName": "LG",
+        "brandImage": "https://i.ibb.co/v4V4D8b/brand6.png"
+    }
+]
